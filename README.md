@@ -10,3 +10,9 @@
 
 ### Stackoverflow
 [When to use references vs. pointers](https://stackoverflow.com/questions/7058339/when-to-use-references-vs-pointers)
+
+### Linux Kernel
+
+[Linux Kernel development (Robert Love)](https://rlove.org/)
+
+Understand the Linux kernel
