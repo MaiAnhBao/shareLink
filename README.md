@@ -30,3 +30,8 @@ Understand the Linux kernel
 [daynhauhoc](https://cpp.daynhauhoc.com/8/10-phan-loai-cac-vung-nho-stack-va-heap/)
 
 [lazytrick](https://lazytrick.wordpress.com/2016/08/15/mot-chut-ve-driver-cho-usb-device-trong-linux/)
+
+D-Bus
+[dbus-example](https://github.com/wware/stuff/blob/master/dbus-example)
+
+[dbus-examples](https://github.com/sgh/dbus-examples)
