@@ -13,6 +13,8 @@
 ### Stackoverflow
 [When to use references vs. pointers](https://stackoverflow.com/questions/7058339/when-to-use-references-vs-pointers)
 
+[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?page=1&tab=votes#tab-top)
+
 ### Linux Kernel
 
 [Linux Kernel development (Robert Love)](https://rlove.org/)
